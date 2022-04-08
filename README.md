@@ -1,6 +1,6 @@
 # icons
-Transparent logos for (almost) all NYSE &amp; NASDAQ stock companies.
+Transparent logos for (almost) all NYSE & NASDAQ stock companies.
 
-Some logos are missing, and some are not transparent. We ask that if you use this repo to please contributing transparent logos that are either missing or are not transparent. The majority of the top 1000 popular & most traded stocks should be covered, or almost.
+Some logos are missing or do not have transparent backgrounds. We ask that if you are using this repository, consider contributing new or transparent logos.
 
 Gathered & compiled by the team at Trade Hub - theTradeHub.net
