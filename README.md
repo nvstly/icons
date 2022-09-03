@@ -9,4 +9,4 @@ List of tickers with no transparent logos: CFVI, ANPC, PETZ, NMTC, WAFU, SNTG, R
 
 (There are many more, just started this list on 9/02 so no one checks the same logo twice)
 #
-#### Gathered, cropped, & compiled by the team at [Trade Hub](https://thetradehub.net "A free social trading app")
+#### Gathered, cropped, & compiled by the team at [Trade Hub](https://thetradehub.net "A free social trading app").
