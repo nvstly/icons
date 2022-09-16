@@ -1,4 +1,6 @@
 # Stock Ticker Logos
+These are not stock images, a lot have been customized such as cropping out icons from logos or changing dark font to white to go with our dark theme app.
+
 Mostly transparent logos for (almost) all NYSE & NASDAQ stock companies.
 
 Some logos have been selected, or modified, to be white or lighter for our dark themed website. Some logos have been made transparent, resulting in some rough edges that aren't very notceable in our use case- they are listed below.
