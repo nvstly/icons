@@ -7,9 +7,9 @@ Some logos have been selected, or modified, to be white or lighter for our dark 
 #
 **Some logos are missing or do not have transparent backgrounds.** We ask that if you are using this repository, consider contributing missing or transparent logos.
 
-List of tickers with no transparent logos: (some were made transparent, but edges are rough): CFVI, ANPC, PETZ, NMTC, WAFU, SNTG, RVAC, HUMA, BCDA, ENVX, BON, PSHG, ALLR, NVFY, DRUG, CLWT, MEGL, OSUR, ABSI, NN, BBLG, FPAY, PLSE, CREG, QNRX, RAIL, ATXI, EELQ, OST, EDSA, SNTG, SENS, RETO, TOP, REVB, MTC, INAB, BRN, INFY, AXL, HOLD, BREZ, ACHR, CFVI, AMEH, AMPE, AMPN, APAM, AAU, AVXT, ACACU, VTAQ, GPCOU, HOLO, YOSH, AEHL, AEHL, NNVC, CLOE, JVA, JETS, ROCL, BWV
+List of tickers with no transparent logos: (some were made transparent, but edges are rough): CFVI, ANPC, PETZ, NMTC, WAFU, SNTG, RVAC, HUMA, BCDA, ENVX, BON, PSHG, ALLR, NVFY, DRUG, CLWT, MEGL, OSUR, ABSI, NN, BBLG, FPAY, PLSE, CREG, QNRX, RAIL, ATXI, EELQ, OST, EDSA, SNTG, SENS, RETO, TOP, REVB, MTC, INAB, BRN, INFY, AXL, HOLD, BREZ, ACHR, CFVI, AMEH, AMPE, AMPN, APAM, AAU, AVXT, ACACU, VTAQ, GPCOU, HOLO, YOSH, AEHL, AEHL, NNVC, CLOE, JVA, JETS, ROCL, BWV, DBGI, FLJ, GACQ, SHPH, GACQ MLAC, SHPH
 
-List of tickers that aren't transparent because they are solid: OLB, WEBR, MARPS, HRB, EIGR, DG, ATHX, ACCO, APEI, IMBI, OSUR, AMSWA, PBR
+List of tickers that aren't transparent because they are solid: OLB, WEBR, MARPS, HRB, EIGR, DG, ATHX, ACCO, APEI, IMBI, OSUR, AMSWA, PBR, EIX
 
 (There are many more, started this list on 9/02- so no one would check the same logos twice)
 #
