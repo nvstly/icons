@@ -18,6 +18,8 @@ We ask that if you are using this repository, consider contributing missing or t
 - All files should have a lowercase .png extension.
 - All files should use an underscore `_` in place of any spaces.
 
+Additionally:
+
 - All stock logos go in `ticker_logos`. Ticker names must be in ALL CAPS.
 - All crypto coin logos go in `crypto_icons`. Coin names must be in ALL CAPS.
 - All crypto exchange logos go in `exchange_icons`. Exchange names must be all lowercase.
