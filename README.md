@@ -10,7 +10,9 @@ Some logos have been selected or modified to be white/lighter for our dark theme
 
 ### Important Notes for Contribution
 
-**Some logos are missing or do not have transparent backgrounds.** We ask that if you are using this repository, consider contributing missing or transparent logos.
+**Some logos are missing or do not have transparent backgrounds.**
+
+We ask that if you are using this repository, consider contributing missing or transparent logos.
 
 - All files must be in `image/png` format.
 - All files should have a lowercase .png extension.
