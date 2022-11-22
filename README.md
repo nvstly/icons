@@ -17,6 +17,7 @@ We ask that if you are using this repository, consider contributing missing or t
 - All files must be in `image/png` format.
 - All files should have a lowercase .png extension.
 - All files should use an underscore `_` in place of any spaces.
+- There is no hard size limitation, but try to keep most images down to a decent size. (under 1mb / under 1024x1024px)
 
 Additionally:
 
