@@ -21,7 +21,7 @@ We ask that if you are using this repository, consider contributing missing or t
 
 Additionally:
 
-- All stock logos go in `ticker_logos`. Ticker names must be in ALL CAPS.
+- All stock logos go in `ticker_icons`. Ticker names must be in ALL CAPS.
 - All crypto coin logos go in `crypto_icons`. Coin names must be in ALL CAPS.
 - All crypto exchange logos go in `exchange_icons`. Exchange names must be all lowercase.
 
