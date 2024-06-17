@@ -37,4 +37,4 @@ No logo at all: HHGC, FLJ(has old Q&K logo?), PAFO, MPAC, MPACU, SPK, VTAQ, BTB,
 
 ---
 
-##### Gathered, cropped, and compiled by the team at [Trade Hub](https://thetradehub.net "A free social trading app.").
+##### Gathered, cropped, edited, and compiled by the team at [NVSTly](https://nvstly.com "A free social trading app.") and contributors.
