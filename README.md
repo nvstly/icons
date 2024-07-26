@@ -1,4 +1,5 @@
-# Stock Ticker Logos
+# Ticker Logos (Stocks & Cryptocurrencies)
+Along with cropped country flags used for auto generating forex ticker icons.
 
 These are not stock images, a lot have been customized such as cropping out icons from logos or changing dark font to white.
 
