@@ -1,11 +1,31 @@
 # Ticker Logos (Stocks, Cryptocurrencies, & Forex)
-Along with cropped country flags used for auto generating forex ticker icons.
+Includes transparent and light/white version logos for (almost) all NYSE and NASDAQ stock companies, major cryptocurrencies, alt & memecoins, along with cropped country flags used to auto-generate forex ticker icons. Regularly updated to include missing or improved logos.
 
-These are not stock images, a lot have been customized such as cropping out icons from logos or changing dark font to white.
+These are not all stock images; many have been customized, such as cropping icons from logos or changing dark fonts to white.
 
-Mostly transparent logos for (almost) all NYSE & NASDAQ stock companies.
+To better suit NVSTly's default dark theme UI, dark logos have been modified to appear in white or light colors, and backgrounds have been made transparent where necessary. These transparency adjustments may result in rough edges on some logos. Additionally, small logos or icons that were cropped and enlarged to 250x250 may have experienced some loss in quality.
 
-Some logos have been selected or modified to be white/lighter for our dark themed website. Some logos that weren't originally have been made transparent, resulting in some rough edges that aren't very notceable in our use-case; they are listed further below.
+# Stock Companies (NYSE, NASDAQ, OTC, & more)
+This collection aims to include logos for all NYSE and NASDAQ-listed stock companies, as well as OTC market companies and other major stock exchanges. Most logos are sized at 250x250 pixels.
+
+# Forex
+Includes logos for all major country flags, with flags cropped from the center (except for flags like AUD and NZD, which have been adjusted for better distinction).
+
+# Cryptocurrencies
+Includes logos for all major cryptocurrencies, along with many altcoins and meme coins. Most logos are sized at 250x250 pixels.
+
+Many logos with circle or coin backgrounds have been replaced with just the logo itself on a transparent background. (Still many to do.)
+
+# Cryptocurrency Exchanges
+Includes logos for all major cryptocurrency exchanges integrated with NVSTly. Regularly updated as exchanges are added or removed due to closure or discontinuation.
+
+# TO DO
+- Re-crop country flags in `forex_icons` so that all are the same size. (500x500 or 350x350 TBD)
+- Replace all logos with non-transparent backgrounds with transparent backgrounds
+- Replace all cryptocurrency logos with circular/coin-style backgrounds with logos on transparent backgrounds
+- Add all country flags supported by NVSTly for forex data
+- Add logos for all known cryptocurrency exchanges, including those not integrated with NVSTly
+- Include logos for all NYSE & NASDAQ companies
 
 ---
 
@@ -18,23 +38,14 @@ We ask that if you are using this repository, consider contributing missing or t
 - All files must be in `image/png` format.
 - All files should have a lowercase .png extension.
 - All files should use an underscore `_` in place of any spaces.
-- There is no hard size limitation, but try to keep most images down to a decent size. (under 1mb / under 1024x1024px)
+- There is no hard size limitation, but try to keep most images down to a decent size. (under 1mb / under 1024x1024px) - Preferably 250x250 for stocks/crypto logos.
 
 Additionally:
 
 - All stock logos go in `ticker_icons`. Ticker names must be in ALL CAPS.
 - All crypto coin logos go in `crypto_icons`. Coin names must be in ALL CAPS.
 - All crypto exchange logos go in `exchange_icons`. Exchange names must be all lowercase.
-
----
-
-List of tickers with no transparent logos that were made transparent: (few were made transparent, but edges are rough): CFVI, ANPC, PETZ, NMTC, WAFU, SNTG, RVAC, HUMA, BCDA, ENVX, BON, PSHG, ALLR, NVFY, DRUG, CLWT, MEGL, OSUR, ABSI, NN, BBLG, FPAY, PLSE, CREG, QNRX, RAIL, ATXI, EELQ, OST, EDSA, SNTG, SENS, RETO, TOP, REVB, MTC, INAB, BRN, INFY, AXL, HOLD, BREZ, ACHR, CFVI, AMEH, AMPE, AMPN, APAM, AAU, AVXT, ACACU, VTAQ, GPCOU, HOLO, YOSH, AEHL, AEHL, NNVC, CLOE, JVA, JETS, ROCL, BWV, DBGI, FLJ, GACQ, SHPH, GACQ MLAC, SHPH, GDNR, OIS, PRME, SMTS, VENA, OMEG, BNSO, CLXT, COPX, IMGN, JCSE, IEP, NWTN, CPHI, ROCG, SOS, CACO, NXTC, BLPH, CNTX, EBON, EZPW, SPRB, ALE, ATAX, ONCR, ATHX, UPC, AMBO, TKAT, CPOP, CDIO, BVS, MHUA, NGG(has a transparent, but this one better), JMAC, CLDX (has a transparent but small, this better), BLCM, XIN, BBLG (has one, but makes it small), EEIQ, MEOA, CDT, HKIT, ICU, OCTO, ACAXR, ACAXU, ACAXW, AHG, ARBB, CDT, CLIN, SSKIN, ZJYL, AP, MESA, CPOP, ELYM, JXJT, XHG, HYW, NKGN
-
-List of tickers that aren't transparent because they are solid: OLB, WEBR, MARPS, HRB, EIGR, DG, ATHX, ACCO, APEI, IMBI, OSUR, AMSWA, PBR, EIX, AGBA, MO, DERM, BX, ACCO, ADX, AMS, AFB, AMSWA, MGOL, MIND, PSEC, TD, BEDU, BXMT, OSTK, DYNT, FGF
-
-No logo at all: HHGC, FLJ(has old Q&K logo?), PAFO, MPAC, MPACU, SPK, VTAQ, BTB, MLGO, YBCN, ORIS
-
-(There are many more, started this list on 9/02- so no one would check the same logos twice)
+- All country flags go in `forex_icons`. Flag names must use their currency symbol in ALL CAPS.
 
 ---
 
