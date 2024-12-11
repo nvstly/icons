@@ -25,6 +25,7 @@ Includes logos for all major cryptocurrency exchanges integrated with NVSTly. Re
 - Replace all cryptocurrency logos with circular/coin-style backgrounds with logos on transparent backgrounds
 - Add all country flags supported by NVSTly for forex data
 - Add logos for all known cryptocurrency exchanges, including those not integrated with NVSTly
+- Start work on light-theme logos (dark versions) to separate from current `stock_icons` that have been aimed for dark-theme (white/light versions). (I.e. `stock_icons_dark` & `stock_icons_light`)
 - Include logos for all NYSE & NASDAQ companies
 
 ---
