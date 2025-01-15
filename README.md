@@ -63,9 +63,12 @@ A social investing platform where retail traders collaborate, share and exchange
 ## Links:
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Discord Server](https://nvstly.com/go/discord)
 
-## Socials
+## Awards
+[People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024  
+#1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
-[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [Stocktwits](https://nvstly.com/go/stocktwits) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin)  
+## Socials
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/) | [Facebook](https://nvstly.com/go/) | [LinkedIn](https://nvstly.com/go/) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/hive) | [Product Hunt](https://nvstly.com/go/producthunt)  
 
 ## [Help & FAQs](https://help.nvstly.com)
 See our [Help Center](https://help.nvstly.com) for support articles and frequently asked questions
