@@ -54,8 +54,6 @@ Additionally:
 
 ---
 
-# [NVSTly](https://nvstly.com): Social Investing
-
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
         <img width="33%" src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/nvstly_banner.png" alt="NVSTly Banner">
@@ -87,52 +85,52 @@ NVSTly is a free interactive social investing platform where traders can track, 
 
 <p align="center">
   <a href="https://nvstly.com/go/discord">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/discord.svg" alt="Join NVSTly on Discord">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/discord.svg" alt="Join NVSTly on Discord">
   </a>
     <a href="https://nvstly.com/go/x" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/x.svg" alt="Follow NVSTly on X">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/x.svg" alt="Follow NVSTly on X">
   </a>
     <a href="https://nvstly.com/go/youtube" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/youtube.svg" alt="Subscribe to NVSTly on YouTube">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/youtube.svg" alt="Subscribe to NVSTly on YouTube">
   </a>
     <a href="https://nvstly.com/go/tiktok" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/tiktok.svg" alt="Follow NVSTly on TikTok">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/tiktok.svg" alt="Follow NVSTly on TikTok">
   </a>
     <a href="https://nvstly.com/go/instagram" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/instagram.svg" alt="Follow NVSTly on Instagram">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/instagram.svg" alt="Follow NVSTly on Instagram">
   </a>
     <a href="https://nvstly.com/go/threads" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/threads.svg" alt="Follow NVSTly on Threads">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/threads.svg" alt="Follow NVSTly on Threads">
   </a>
     <a href="https://nvstly.com/go/facebook" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
   </a>
     <a href="https://nvstly.com/go/linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
   </a>
     <a href="https://nvstly.com/go/bsky" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
   </a>
     <a href="https://nvstly.com/go/mastodon" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon">
   </a>
     <a href="https://nvstly.com/go/nostr" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/nostr.svg" alt="Follow NVSTly on Nostr">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/nostr.svg" alt="Follow NVSTly on Nostr">
   </a>
     <a href="https://nvstly.com/go/producthunt" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt">
   </a>
     <a href="https://nvstly.com/go/github" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/github.svg" alt="Check out NVSTly on GitHub">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/github.svg" alt="Check out NVSTly on GitHub">
   </a>
     <a href="https://nvstly.com/go/hive" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/hive.svg" alt="Follow NVSTly on Hive">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/hive.svg" alt="Follow NVSTly on Hive">
   </a>
     <a href="https://nvstly.com/go/medium" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/medium.svg" alt="Follow NVSTly on Medium">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/medium.svg" alt="Follow NVSTly on Medium">
   </a>
     <a href="https://nvstly.com/go/substack" target="_blank">
-    <img src="https://raw.githubusercontent.com/nvstly/.github/578f081e0a4099d548d62aa76d397e4d4b56ec00/assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack">
+    <img src="https://raw.githubusercontent.com/just-rich/just-rich/47526a905895541ca19cb51073b60f413e14c711/pages/assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack">
   </a>
 </p>
 
@@ -141,8 +139,12 @@ NVSTly is a free interactive social investing platform where traders can track, 
 - #1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 <p align="center">
-  <a href="https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards" target="_blank">
+  <a href="https://nvstly.com/shrt/bnzgaward" target="_blank">
     <img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160">
+  </a>
+
+  <a href="https://nvstly.com/go/producthunt" target="_blank">
+    <img src="https://github.com/just-rich/just-rich/blob/main/pages/assets/images/product_hunt.png?raw=true" alt="#1 FinTech Product of the Week" height="54">
   </a>
 </p>
 
