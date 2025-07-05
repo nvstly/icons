@@ -88,7 +88,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 - #1 Fintech Product of the Week (x2) & #4 Fintech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 <p align="center">
-  <a href="https://nvstly.com/shrt/stevieaba" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/stevie_badge.png" alt="Gold Stevie® Award" height="160"></a><a href="https://nvstly.com/shrt/bnzgaward" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160"></a> <a href="https://nvstly.com/go/producthunt" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/product_hunt.png" alt="#1 Fintech Product of the Week" height="54"></a>
+  <a href="https://nvstly.com/shrt/stevieaba" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/stevie_badge_small.png" alt="Gold Stevie® Award" height="160"></a><a href="https://nvstly.com/shrt/bnzgaward" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/benzinga_badge_small.png" alt="People's Choice Award" height="160"></a> <a href="https://nvstly.com/go/producthunt" target="_blank"><img src="https://raw.githubusercontent.com/nvstly/.github/refs/heads/master/assets/images/product_hunt.png" alt="#1 Fintech Product of the Week" height="54"></a>
 </p>
 
 ## [Help & FAQs](https://help.nvstly.com)
